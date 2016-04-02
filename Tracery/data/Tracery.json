@@ -1,0 +1,8 @@
+{
+    "name": ["Arjun","Yuuma","Darcy","Mia","Chiaki","Izzi","Azra","Lina"],
+    "animal": ["unicorn","raven","sparrow","scorpion","coyote","eagle","owl","lizard","zebra","duck","kitten"],
+    "mood": ["vexed","indignant","impassioned","wistful","astute","courteous"],
+    "story": ["#hero# traveled with her pet #heroPet#."],
+    "origin": ["#[hero:#name#][heroPet:#animal#]story#"],
+    "TraceryTest": ["\\C[1]Hello World!", "Hi \\N[1]! \\\\", "\\{Hi Mom!"]
+}
